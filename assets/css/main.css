@@ -1567,7 +1567,8 @@ img.my_images1 {
     inline-size: auto;
     align-self: auto;
     display: block;
-    margin-left: 50%;
+    margin-left: 35%;
     margin-right: auto;
-    width: 50%;
+    width: 70%;
+    height: 100%;
 }
