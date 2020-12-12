@@ -1563,3 +1563,11 @@
     margin-right: auto;
     width: 20%;
 }
+img.my_images1 {
+    inline-size: auto;
+    align-self: auto;
+    display: block;
+    margin-left: 50%;
+    margin-right: auto;
+    width: 50%;
+}
